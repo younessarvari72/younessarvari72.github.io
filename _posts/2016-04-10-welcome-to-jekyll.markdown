@@ -1,16 +1,11 @@
 ---
 layout: post
-title:  "پست 0"
+title:  "درباره من"
 date:   2016-04-10 22:38:32 +0430
 categories: jekyll update
 ---
-lk ldo,hl hl,vsajfajfhjk
-
-jhakjdhjkaf
-
-تاتنیباتننب
-#
-تایاتت
-****
-
-**ننبنبن**
+         یونس سروری نوبهاری
+---
+متولد 1372
+استان خراسان رضوی
+شهرستان باخرز

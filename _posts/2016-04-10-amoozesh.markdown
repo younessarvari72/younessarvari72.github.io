@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "آموزش DB"
+date:   2016-04-10 22:38:32 +0430
+categories: jekyll update
+---
+دستور CREATE DATABASE
+
+---
+
+دستور CREATE DATABASE برای ایجاد یک پایگاه داده استفاده می شود.
+
+##  فرم دستور
+
+CREATE DATABASE database_name
+##       EXAMPLE   
+
+
+
+*می خواهیم پایگاه داده ای با نام my_db ایجاد کنیم.*
+
+از دستور زیر استفاده می کنیم:
+CREATE DATABASE my_db
+
+
+
+---
+جداول پایگاه داده می توانند با دستور CREATE TABLE اضافه شوند.
+
+
+دستور CREATE TABLE برای ایجاد جدول در یک پایگاه داده استفاده می شود.
+
+فرم دستور CREATE TABLE:
+CREATE TABLE table_name
+(
+*column_name1 data_type,*
+*column_name2* # data_type #,
+column_name3 data_type,
+....
+)
+
+data type مشخص می کند چه نوع داده ای می تواند در ستون وارد شود. برای اینکه مرجع کاملی از data typeهای موجود در MS Access, MySQL و SQL Server را مشاهده کنید به قسمت SQL Data Typesمراجعه کنید.
+مثال:
+
+
+
+می خواهیم جدولی با نام Persons با پنج ستون (P_Id, LastName, FirstName, Address, City) ایجاد کنیم:
+
+از دستور زیر استفاده می کنیم:
+
+
+
+
+
+
+
+
+
