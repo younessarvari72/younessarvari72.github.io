@@ -9,12 +9,12 @@
 title: welcome to site youns
 email: younes.saravari@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  سایت یونس سروری 
+  welcome to my site   
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "sarvari72.ir" # the base hostname & protocol for your site
+url: "younes72.ir" # the base hostname & protocol for your site
 twitter_username: 
-github_username: youns
+github_username: https://github.com/younessarvari72/younessarvari72.github.io.git
 
 # Build settings
 markdown: kramdown
